@@ -303,7 +303,7 @@ const Hero: React.FC = () => {
             <a href="mailto:aadilalitank@gmail.com" style={{ textDecoration: 'none' }}>
               <AnimatedButton label="Contact Me" icon="mail" />
             </a>
-            <a href="https://drive.google.com/file/d/1Ha40b3uuINlYq1hEWrrk-BQ9MiC-BXOE/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+            <a href="https://drive.google.com/file/d/1TG3X99-LAEz91_eXTo5la1aVL5KcqnrX/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
               <AnimatedButton label="Resume" icon="resume" />
             </a>
 	
